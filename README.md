@@ -2,9 +2,7 @@
 
 I'm a Software Engineering graduate located near Brighton in the UK.
 
-I'm currently learning about the [Jamstack](https://jamstack.org/) and static site generators with particular focus on [11ty](https://www.11ty.dev/) and [Gatsby.js](https://www.gatsbyjs.org/).
-
-🏅 My current goal is to start to contribute to open source projects.
+I'm currently learning about the [Jamstack](https://jamstack.org/) and static site generators with particular focus on [11ty](https://www.11ty.dev/).
 
 Other places where I can be found:
 
