@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-I'm a Software Engineering graduate located near Brighton in the UK.
+I'm a software engineer working at Honeywell in the UK.
 
-I'm currently learning about the [Jamstack](https://jamstack.org/) and static site generators with particular focus on [11ty](https://www.11ty.dev/).
+Most of my commits are features for my [personal website](https://declanbyrd.co.uk) but occasionally I like to experiment with technologies that I don't get to use for work related projects.
 
-Other places where I can be found:
+Things I'd like to do more of:
 
-- 🌐 [My Website](https://declanbyrd.co.uk).
+- Generative art with Canvas API and WebGL
+- Progressive web apps
+- Write articles for my personal site
 
+Technologies or languages I'd like to learn more about:
 
-
+- Go
 
 <!--
 **declanbyrd/declanbyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
