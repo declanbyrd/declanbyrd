@@ -1,30 +1,5 @@
-### Hi there 👋
+# Hi I'm, Declan.
 
-I'm a software engineer working at Honeywell in the UK.
+I'm currently having some time off before I start a new role. Prior to this, I worked at Honeywell where I contributed to the development of building management systems.
 
-Most of my commits are features for my [personal website](https://declanbyrd.co.uk) but occasionally I like to experiment with technologies that I don't get to use for work related projects.
-
-Things I'd like to do more of:
-
-- Generative art with Canvas API and WebGL
-- Progressive web apps
-- Write articles for my personal site
-
-Technologies or languages I'd like to learn more about:
-
-- Go
-
-<!--
-**declanbyrd/declanbyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my commits are for my [personal site](https://declanbyrd.co.uk/) as I like to use my personal site to log my progress and what I get up to.
